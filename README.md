@@ -215,8 +215,9 @@ corporate-finance-analytics-suite/
 
 ## Author
 
-**G. Suneel** · Finance Data Analyst · Hyderabad, India  
-B.Com · CMA Intermediate · MCA (2026) · CMA Final (in progress)  
+**G. Suneel** · G. Suneel  
+Finance Analyst | Excel | Power Query | FP&A | Reporting Automation  
+Hyderabad, India
 [github.com/sunilg9090](https://github.com/sunilg9090)
 
 ---
