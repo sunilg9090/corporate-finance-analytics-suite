@@ -215,7 +215,7 @@ corporate-finance-analytics-suite/
 
 ## Author
 
-**G. Suneel** · G. Suneel  
+**G. Suneel** ·
 Finance Analyst | Excel | Power Query | FP&A | Reporting Automation  
 Hyderabad, India
 [github.com/sunilg9090](https://github.com/sunilg9090)
