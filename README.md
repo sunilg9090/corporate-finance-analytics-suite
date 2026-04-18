@@ -16,7 +16,9 @@
 
 ---
 
-## Snapshot
+<p align="center">
+  <img src="dashboard-preview.png" width="900"/>
+</p>
 
 | | |
 |---|---|
