@@ -46,6 +46,14 @@
 | Current Ratio | 5.17× | 8.20× | 8.08× |
 | Total Assets | 3,875,802 | 9,238,096 | 12,320,001 |
 
+
+
+<h2>Profit & Loss Statement</h2>
+<img src="pl-statement.png" width="100%" />
+
+<h2>Balance Sheet</h2>
+<img src="balance-sheet.png" width="100%" />
+
  
 
 
