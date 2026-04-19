@@ -48,8 +48,7 @@
 
 
 
-<h2>Profit & Loss Statement</h2>
-<img src="pl-statement.png" width="100%" />
+
 
 <h2>Balance Sheet</h2>
 <img src="balance-sheet.png" width="100%" />
@@ -66,6 +65,11 @@
 <!-- ![P&L Statement](docs/pl-preview.png) -->
 
 ---
+
+
+
+<h2>Profit & Loss Statement</h2>
+<img src="pl-statement.png" width="100%" />
 
 ## Problem Statement
 
