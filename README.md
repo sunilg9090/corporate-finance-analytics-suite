@@ -46,13 +46,10 @@
 | Current Ratio | 5.17× | 8.20× | 8.08× |
 | Total Assets | 3,875,802 | 9,238,096 | 12,320,001 |
 
- ```html id="x7cnvt"
-<h2 align="center">Financial Statements</h2>
 
-<p align="center">
-  <img src="./pl-statement.png" alt="P&L Statement" width="48%">
-  <img src="./balance-sheet.png" alt="Balance Sheet" width="48%">
-</p>
+ ```html id="v3m8qp"
+<img src="https://raw.githubusercontent.com/sunilg9090/corporate-finance-analytics-suite/main/pl-statement.png" width="48%">
+<img src="https://raw.githubusercontent.com/sunilg9090/corporate-finance-analytics-suite/main/balance-sheet.png" width="48%">
 ```
 
 
